@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/marvel-app/static/css/main.05fc0ed1.css",
+    "main.js": "/marvel-app/static/js/main.068df1a9.js",
+    "index.html": "/marvel-app/index.html",
+    "main.05fc0ed1.css.map": "/marvel-app/static/css/main.05fc0ed1.css.map",
+    "main.068df1a9.js.map": "/marvel-app/static/js/main.068df1a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05fc0ed1.css",
+    "static/js/main.068df1a9.js"
+  ]
+}
